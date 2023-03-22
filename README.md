@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicoleju03
-- 👀 I’m interested in software development (games, websites, apps..) and data analysis.
-- 🌱 I’m currently learning R and python. I am proficient in Java, C++, and Bash.
+- 👀 I’m interested in software development projects (client-based applications, games, websites...) and data analysis. I'm also looking to learn AI and machine learning concepts!
+- 🌱 I am proficient in Java, C++, Python, C, JavaScript, and HTML. I am also familiar with Linux/Unix systems, including Bash scripting, and have a strong understanding of operating systems and system architecture.
 - 📫 How to reach me: nicoleju03@gmail.com
 
 <!---
